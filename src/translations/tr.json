@@ -1,0 +1,20 @@
+{
+    "services": "Hizmetler",
+    "managedIT": "Yönetilen BT",
+    "telecomSolutions": "Telekom Çözümleri",
+    "aboutUs": "Hakkımızda",
+    "contacts": "Kişiler",
+    "search": "Aramak",
+    "cloudComputing": "Bulut bilişim",
+    "dedicatedServers": "Özel sunucular",
+    "platformServices": "Platform Hizmetleri",
+    "informationSecurity": "Bilgi Güvenliği",
+    "cloudConsulting": "Bulut danışmanlığı",
+    "cloudConsultingDescription": "İlişkisel veritabanı",
+    "cloudAnalytics": "Bulut analitiği",
+    "cloudAnalyticsDescription": "Hasta bakımının kalitesini artırmayı amaçlayan sağlık hizmetleri çözümleri.",
+    "hybridCloud": "Hibrit bulut",
+    "hybridCloudDescription": "Devlet kurumları için veri depolama, yapay zeka ve analitik çözümleri.",
+    "multicloud": "Çoklu bulut",
+    "multicloudDescription": "MySQL, PostgreSQL ve SQL sunucusu için ilişkisel veritabanı hizmetleri."
+}

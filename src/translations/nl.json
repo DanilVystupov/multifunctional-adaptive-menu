@@ -1,0 +1,20 @@
+{
+    "services": "Tjenester",
+    "managedIT": "Administrerte IT",
+    "telecomSolutions": "Telekomløsninger",
+    "aboutUs": "Om oss",
+    "contacts": "Contacten",
+    "search": "Zoekopdracht",
+    "cloudComputing": "Cloud computing",
+    "dedicatedServers": "Toegewijde servers",
+    "platformServices": "Platformdiensten",
+    "informationSecurity": "Informatiebeveiliging",
+    "cloudConsulting": "Skyrådgivning",
+    "cloudConsultingDescription": "Relasjonsdatabase",
+    "cloudAnalytics": "Skyanalyse",
+    "cloudAnalyticsDescription": "Løsninger for helsetjenester rettet mot å forbedre kvaliteten på pasientbehandlingen.",
+    "hybridCloud": "Hybrid sky",
+    "hybridCloudDescription": "Løsninger for datalagring, kunstig intelligens og analyser for offentlige institusjoner.",
+    "multicloud": "Multicloud",
+    "multicloudDescription": "Relasjonsdatabasetjenester for MySQL, PostgreSQL og SQL-server."
+}

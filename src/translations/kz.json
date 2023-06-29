@@ -1,0 +1,20 @@
+{
+    "services": "Қызметтер",
+    "managedIT": "Басқарылатын  IT",
+    "telecomSolutions": "Телекоммуникациялық шешімдер",
+    "aboutUs": "Біз туралы",
+    "contacts": "Контактілер",
+    "search": "Іздеу",
+    "cloudComputing": "Бұлтты есептеу",
+    "dedicatedServers": "Арнайы серверлер",
+    "platformServices": "Платформа қызметтері",
+    "informationSecurity": "Ақпараттық қауіпсіздік",
+    "cloudConsulting": "Бұлттық консалтинг",
+    "cloudConsultingDescription": "Реляциялық мәліметтер базасы",
+    "cloudAnalytics": "Бұлттық аналитика",
+    "cloudAnalyticsDescription": "Пациенттерге көмек көрсету сапасын жақсартуға бағытталған денсаулық сақтау шешімдері.",
+    "hybridCloud": "Гибридті бұлт",
+    "hybridCloudDescription": "Деректерді сақтауға, жасанды интеллектке және мемлекеттік мекемелерге арналған аналитикаға арналған шешімдер.",
+    "multicloud": "Көпбұлт",
+    "multicloudDescription": "MySQL, PostgreSQL және SQL серверіне арналған реляциялық дерекқор қызметтері."
+}

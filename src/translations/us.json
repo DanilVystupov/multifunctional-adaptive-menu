@@ -1,0 +1,20 @@
+{
+    "services": "Services",
+    "managedIT": "Managed IT",
+    "telecomSolutions": "Telecom Solutions",
+    "aboutUs": "About Us",
+    "contacts": "Contacts",
+    "search": "Search",
+    "cloudComputing": "Сloud Computing",
+    "dedicatedServers": "Dedicated Servers",
+    "platformServices": "Platform Services",
+    "informationSecurity": "Information Security",
+    "cloudConsulting": "Cloud consulting",
+    "cloudConsultingDescription": "Relational database",
+    "cloudAnalytics": "Cloud Analytics",
+    "cloudAnalyticsDescription": "Health-specific solutions to enhance the patient experience.",
+    "hybridCloud": "Hybrid Cloud",
+    "hybridCloudDescription": "Data storage, AI, and analytics solutions for government agencies.",
+    "multicloud": "Multicloud",
+    "multicloudDescription": "Relational database services for MySQL, PostgreSQL, and SQL server."
+}

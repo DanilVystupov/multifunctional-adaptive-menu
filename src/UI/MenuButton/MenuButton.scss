@@ -1,0 +1,13 @@
+.mobile-btn {
+    position: fixed;
+    right: 3%;
+    top: 3%;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.active-btn {
+    :hover {
+        color: red;
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "services": "Услуги",
+    "managedIT": "Управляемые ИТ",
+    "telecomSolutions": "Телеком решения",
+    "aboutUs": "О нас",
+    "contacts": "Контакты",
+    "search": "Поиск",
+    "cloudComputing": "Облачные вычисления",
+    "dedicatedServers": "Выделенные серверы",
+    "platformServices": "Платформенные сервисы",
+    "informationSecurity": "Информационная безопасность",
+    "cloudConsulting": "Облачный консалтинг",
+    "cloudConsultingDescription": "Реляционная база данных",
+    "cloudAnalytics": "Облачная аналитика",
+    "cloudAnalyticsDescription": "Решения для здравоохранения, направленные на повышение качества обслуживания пациентов.",
+    "hybridCloud": "Гибридное облако",
+    "hybridCloudDescription": "Решения для хранения данных, искусственного интеллекта и аналитики для государственных учреждений.",
+    "multicloud": "Мультиоблако",
+    "multicloudDescription": "Услуги реляционных баз данных для MySQL, PostgreSQL и SQL server."
+}
