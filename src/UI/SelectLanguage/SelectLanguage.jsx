@@ -3,6 +3,7 @@ import Select, { components } from 'react-select';
 import { useDispatch, useSelector } from 'react-redux';
 import { setCurrentLanguage } from '../../store/slices/menuSlice';
 import './SelectLanguage.scss';
+
 import iconUS from './icons/Icon_US_round.png';
 import iconNL from './icons/Icon_NL_round.png';
 import iconRU from './icons/Icon_RU_round.png';
@@ -11,6 +12,7 @@ import iconKZ from './icons/Icon_KZ_round.png';
 import iconTR from './icons/Icon_TR_round.png';
 import selectedIcon from './icons/selected_icon.svg';
 
+// Определяем список доступных языков с их значением, меткой и иконкой
 const languageOptions = [
     { value: 'country', label: 'Страна' },
     { value: 'us', label: 'United States', icon: iconUS },
@@ -21,6 +23,7 @@ const languageOptions = [
     { value: 'tr', label: 'Türkiye', icon: iconTR },
 ];
 
+// Определяем стили для выпадающего списка
 const customSelectStyles = {
     control: (provided) => ({
         ...provided,
@@ -78,6 +81,7 @@ const customSelectStyles = {
     }),
 };
 
+// Функция форматирования метки языка для краткого отображения
 const formatLabel = (label) => {
     switch (label) {
         case 'United States':
@@ -97,6 +101,7 @@ const formatLabel = (label) => {
     }
 };
 
+// Компонент для отображения выбранного значения языка
 const SingleValue = ({ children, ...props }) => {
     const { data } = props;
     const formattedLabel = formatLabel(data.label);
@@ -109,13 +114,16 @@ const SingleValue = ({ children, ...props }) => {
 };
 
 const SelectLanguage = () => {
+    // Получение текущего выбранного языка и инициализация диспетчера
     const currentLanguage = useSelector((state) => state.menu.currentLanguage)
     const dispatch = useDispatch();
 
+    // Функция для изменения выбранного языка
     const changeLanguage = (language) => {
         dispatch(setCurrentLanguage(language));
     };
 
+    // Обработчик изменения выбранного значения языка
     const handleSelectChange = (selectedOption) => {
         const selectedLanguage = selectedOption.value;
         changeLanguage(selectedLanguage);
