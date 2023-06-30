@@ -33,7 +33,7 @@ const CloudServicesDetails = () => {
                             {/* Ссылка на страницу ServicesPage с обработчиком сохранения состояния меню */}
                             <Link to={`${SERVICES_PAGE}${currentLanguage}/${isMenuOpen}`}>
                                 <img className='item-come-back__icon' src={iconArrowLeft} alt='icon arrow left' />
-                                <span className='item-come-back__link'>{getTranslation('services', currentLanguage)}</span>
+                                <span className='item-come-back__link'>{getTranslation('cloudComputing', currentLanguage)}</span>
                             </Link>
                         </li>
                     </ul>
